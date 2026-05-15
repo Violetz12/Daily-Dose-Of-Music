@@ -159,12 +159,6 @@ $boxEmojis = ['📦', '🎁', '📫', '🗃️'];
           <div class="split-right">
             <!-- Big turntable -->
             <div style="font-size:7rem;animation:turntable-spin 4s linear infinite;" id="turntable">💿</div>
-            <!-- Discord badge -->
-            <div class="discord-badge">
-              <span>⊕</span>
-              <span>Discord connected</span>
-              <div class="discord-dot"></div>
-            </div>
           </div>
         </div>
 
@@ -199,11 +193,6 @@ $boxEmojis = ['📦', '🎁', '📫', '🗃️'];
           <div class="split-right">
             <!-- Big pixel turntable -->
             <div style="font-size:9rem;animation:turntable-spin 6s linear infinite;">💿</div>
-            <div class="discord-badge">
-              <span>⊕</span>
-              <span>Discord connected</span>
-              <div class="discord-dot"></div>
-            </div>
           </div>
         </div>
       <?php endif; ?>
